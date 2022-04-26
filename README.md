@@ -26,6 +26,8 @@
 ## Usage
 <p><p>1. Open terminal<br>2. cd to the project root directory<br>3. Run the command 'npm start'</p>4. Open Insomnia / Postman / a tool of your choice<br>5. The api routes should be ready to use </p>
 
+## Walk Through Video
+- [Walk Through Video](https://1drv.ms/v/s!AuncG59SV-FRgxrtMNxT_Yim3nXA?e=HTQ1cQ)
 ## Credits
 <p>https://mongoosejs.com/docs/guide.html</p>
 
